@@ -1,0 +1,2 @@
+# testtogit
+тестирование git ignore
